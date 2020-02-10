@@ -9,6 +9,8 @@ namespace Deel1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Jeuj het werk");
             Console.WriteLine("Klopt");
+
+            Console.WriteLine("My password");
         }
     }
 }
